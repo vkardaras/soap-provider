@@ -1,1 +1,1 @@
-    #+title: Spring boot demo application for SOAP provider
+#+title: Spring boot demo application for SOAP provider
